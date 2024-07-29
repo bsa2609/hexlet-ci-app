@@ -2,7 +2,7 @@
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
-### say-hello test:
+## my-test test:
 [![Actions Status](https://github.com/bsa2609/hexlet-ci-app/actions/workflows/my-test.yml/badge.svg)](https://github.com/bsa2609/hexlet-ci-app/actions)
 
 ## System requirements
